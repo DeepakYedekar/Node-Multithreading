@@ -1,0 +1,12 @@
+// Child process
+
+Used to swap multiple instance of node js for specific module (code) or run shell script files 
+
+
+// Cluster module 
+
+Used to create a whole node js server sperately for scaling the application
+
+
+// Worker thread module
+
